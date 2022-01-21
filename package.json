@@ -73,12 +73,12 @@
     "typescript": "~4.0.0"
   },
   "peerDependencies": {
-    "expo-blur": ">=9.0.0",
-    "expo-haptics": ">=9.0.0",
+    "expo-blur": "~11.0.0",
+    "expo-haptics": "~11.1.0",
     "react": "*",
     "react-native": "*",
-    "react-native-gesture-handler": ">=1.8.0",
-    "react-native-reanimated": ">=2.1.0"
+    "react-native-gesture-handler": "~2.1.0",
+    "react-native-reanimated": "~2.3.1"
   },
   "@react-native-community/bob": {
     "source": "src",
